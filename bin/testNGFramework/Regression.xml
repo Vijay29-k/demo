@@ -1,0 +1,12 @@
+<suite name = "Regression Suite">
+<test name = "Regression Testing Cycle 1">
+	<classes>
+	<class name = "testNGFramework.Facebook"></class>	
+	<class name = "testNGFramework.DatapProviderFB"></class>
+		
+		
+	</classes>	
+	
+</test>		
+	
+</suite>

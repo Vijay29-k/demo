@@ -1,0 +1,13 @@
+<suite name = "Smoke Suite">
+	<test name = "Smoke Testing Suite">
+	<classes>
+		
+		<class name = "testNGFramework.Facebook"></class>	
+		<class name = "testNGFramework.InternetSpped"></class>
+		<class name = "testNGFramework.DatapProviderFB"></class>
+		<class name = "testNGFramework.DPCLass"></class>
+		
+		
+	</classes>	
+	</test>		
+</suite>
