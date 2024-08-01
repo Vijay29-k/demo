@@ -15,6 +15,8 @@ public class AL_Class {
        l.add(true);
        l.add('c');
        l.add(104);
+       l.add(200);
+       l.add("Vijay");
        l.add(106.84);
       
      
